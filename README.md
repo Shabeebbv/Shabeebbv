@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shabeeb
-- 👀 I’m interested in id field
+- 👀 I’m interested in it field
 - 🌱 I’m currently learning bca in univercity of calicut
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
