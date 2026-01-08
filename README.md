@@ -1,16 +1,49 @@
 # 👋 Hi, I'm Shabeeb  
 
-💻 Passionate developer | 🚀 Learning React & JavaScript | 🧩 Problem Solver  
+💻 Passionate developer | 🚀 Python Full-Stack Learner | 🧩 Problem Solver
 
-## 🌱 Currently Learning
-- React.js
-- Data Structures & Algorithms
-- LeetCode problem solving  
+🌱 Currently Learning
 
-## 🛠 Tech Stack
-- **Languages:** JavaScript, HTML, CSS  
-- **Frameworks:** React, Bootstrap  
-- **Tools:** Git, GitHub, VS Code  
+Python Full-Stack Development
+
+Django Advanced Concepts
+
+LeetCode Problem Solving
+
+Systematic Coding Practices 
+
+🛠 Tech Stack
+🔹 Languages
+
+JavaScript
+
+HTML
+
+CSS
+
+Python
+
+SQL
+
+🔹 Frameworks & Libraries
+
+React
+
+Redux
+
+Bootstrap
+
+Tailwind CSS
+
+Django
+
+🔹 Tools
+
+Git
+
+GitHub
+
+VS Code
 
 ## 📊 GitHub Stats
 ![Shabeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shabeebbv&show_icons=true&theme=tokyonight)
@@ -20,4 +53,4 @@
 - [GitHub](https://github.com/Shabeebbv)  
 
 ---
-⭐ Always exploring, always learning.
+⭐ Always exploring, always learning — building skills today for better solutions tomorrow.
