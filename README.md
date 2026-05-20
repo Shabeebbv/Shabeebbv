@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Shabeeb  
 
-💻 Passionate developer | 🚀 Python Full-Stack Learner | 🧩 Problem Solver
+💻 Passionate developer | 🚀 Python Full-Stack  | 🧩 Problem Solver
 
-🌱 Currently Learning
+🌱 Currently 
 
 Python Full-Stack Development
 
-Django Advanced Concepts
+Django rest
 
 LeetCode Problem Solving
 
